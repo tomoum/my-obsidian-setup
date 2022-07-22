@@ -1,0 +1,160 @@
+{
+  "main": {
+    "id": "df4fa15d1e803880",
+    "type": "split",
+    "children": [
+      {
+        "id": "6fa35bd30e389028",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "🍰Raspberry Pi/🍰Raspberry Pi.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6895a44d4ec12535",
+    "type": "split",
+    "children": [
+      {
+        "id": "788efb3493266d24",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "63cfe4daacd2f7d1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "8f0a08a25c59de4e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "4d8b0db5eb86fb7c",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "6c6c7a0808a8e851",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 212
+  },
+  "right": {
+    "id": "77fe4a6f42ab4e97",
+    "type": "split",
+    "children": [
+      {
+        "id": "a29e4b89ad179818",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8d2f631c644498d7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "🍰Raspberry Pi/🍰Raspberry Pi.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "0ef3b64ead3f127a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f41ae850cc293738",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "🍰Raspberry Pi/🍰Raspberry Pi.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7207d754b9170fd2",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "744eb9530a46a168",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "🍰Raspberry Pi/🍰Raspberry Pi.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 314
+  },
+  "active": "6fa35bd30e389028",
+  "lastOpenFiles": [
+    "🏗️Projects/nrf Tools.md",
+    "😶‍🌫️Misc/nextcloud.com.md",
+    "😶‍🌫️Misc/capterra.ca.md",
+    "😶‍🌫️Misc/Software Review Websites.md",
+    "🪟Windows/Remote Desktop Setup on Fresh Install.md",
+    "🪟Windows/OneDrive - Cloud Sync Tech.md",
+    "🪟Windows/Excel Shortcuts.md",
+    "🪟Windows/Command Prompt.md",
+    "🪟Windows/Add Program to Windows Startup Apps.md",
+    "🤓Interview Prep/🏃‍♂️Useful Training websites.md"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "settings": {
+    "migrated": true,
+    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "fontSize": 16,
+    "iconColor": "#981616",
+    "recentlyUsedIcons": [
+      "FabGit",
+      "1️⃣",
+      "FabLinux",
+      "FabGithub",
+      "RiKakaoTalkLine"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraPadding": {
+      "top": 2,
+      "right": 2,
+      "bottom": 2,
+      "left": 2
+    }
+  },
+  "🖥️CLI/git-debugging.md": "FabGit",
+  "🖥️CLI/github.md": "FabGithub",
+  "SEL": "FasW",
+  "SEL/Meetings": "RiKakaoTalkLine",
+  "🖥️CLI/git.md": "FabGit"
+}
