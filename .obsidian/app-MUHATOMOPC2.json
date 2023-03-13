@@ -1,0 +1,21 @@
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "showLineNumber": true,
+  "rightToLeft": false,
+  "spellcheck": true,
+  "promptDelete": true,
+  "trashOption": "local",
+  "newFileLocation": "current",
+  "newFileFolderPath": "Inbox",
+  "attachmentFolderPath": "./attachments",
+  "fileSortOrder": "alphabetical",
+  "communityThemeSortOrder": "download",
+  "showFrontmatter": true,
+  "strictLineBreaks": false,
+  "foldIndent": true,
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "autoPairMarkdown": false,
+  "foldHeading": true
+}

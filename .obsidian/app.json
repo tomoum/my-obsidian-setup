@@ -9,13 +9,18 @@
   "newFileLocation": "current",
   "newFileFolderPath": "Inbox",
   "attachmentFolderPath": "./attachments",
-  "fileSortOrder": "alphabetical",
+  "fileSortOrder": "byModifiedTime",
   "communityThemeSortOrder": "download",
-  "showFrontmatter": true,
+  "showFrontmatter": false,
   "strictLineBreaks": false,
   "foldIndent": true,
   "alwaysUpdateLinks": true,
   "showUnsupportedFiles": true,
   "autoPairMarkdown": false,
-  "foldHeading": true
+  "foldHeading": true,
+  "readableLineLength": true,
+  "spellcheckLanguages": [
+    "en-US",
+    "en-CA"
+  ]
 }

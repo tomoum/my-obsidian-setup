@@ -5,7 +5,7 @@
     "fontSize": 16,
     "iconColor": "#981616",
     "recentlyUsedIcons": [
-      "FabGit",
+      "RiCodeSSlashFill",
       "1️⃣",
       "FabLinux",
       "FabGithub",
@@ -18,11 +18,13 @@
       "right": 2,
       "bottom": 2,
       "left": 2
+    },
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
     }
   },
-  "🖥️CLI/git-debugging.md": "FabGit",
-  "🖥️CLI/github.md": "FabGithub",
-  "SEL": "FasW",
-  "SEL/Meetings": "RiKakaoTalkLine",
-  "🖥️CLI/git.md": "FabGit"
+  "_SEL/Meetings": "RiKakaoTalkLine"
 }

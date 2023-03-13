@@ -1,28 +1,172 @@
 {
   "recentFiles": [
     {
-      "basename": "🍰Raspberry Pi",
-      "path": "🍰Raspberry Pi/🍰Raspberry Pi.md"
+      "basename": "windows wsl",
+      "path": "_💡Library/🖥️CPSC/windows wsl.md"
+    },
+    {
+      "basename": "🐧Bash",
+      "path": "_🖥️CLI/🐧Bash.md"
+    },
+    {
+      "basename": "Python Interview Questions",
+      "path": "_SEL/🔎interviews/Python Interview Questions.md"
+    },
+    {
+      "basename": "OOP Interview Questions",
+      "path": "_SEL/🔎interviews/OOP Interview Questions.md"
+    },
+    {
+      "basename": "C++",
+      "path": "_💡Library/🖥️CPSC/C++.md"
+    },
+    {
+      "basename": "Ethernet Switch Manager - ESM",
+      "path": "_SEL/🔷ICON/Ethernet Switch Manager - ESM.md"
+    },
+    {
+      "basename": "Ethernet-frame-hardware-overview",
+      "path": "_SEL/🔷ICON/attachments/Ethernet-frame-hardware-overview.svg"
+    },
+    {
+      "basename": "Acronyms",
+      "path": "_SEL/🔷ICON/Acronyms.md"
+    },
+    {
+      "basename": "2_pipenv, venv, virtualenv which one should I use",
+      "path": "🤖Blog/📰Posts/2_pipenv, venv, virtualenv which one should I use.md"
+    },
+    {
+      "basename": "python_dependencies",
+      "path": "🤖Blog/📰Posts/python_dependencies.svg"
+    },
+    {
+      "basename": "My SEL Machines",
+      "path": "_SEL/Meetings/My SEL Machines.md"
+    },
+    {
+      "basename": "EPLM",
+      "path": "_SEL/🔷ICON/EPLM.md"
+    },
+    {
+      "basename": "_🖥️CLI",
+      "path": "_🖥️CLI/_🖥️CLI.md"
+    },
+    {
+      "basename": "Stack Vs Heap",
+      "path": "_💡Library/🖥️CPSC/Stack Vs Heap.md"
+    },
+    {
+      "basename": "SSH Cheat Sheet",
+      "path": "_💡Library/🖥️CPSC/SSH Cheat Sheet.md"
+    },
+    {
+      "basename": "GoogleTest C++",
+      "path": "_💡Library/🖥️CPSC/GoogleTest C++.md"
+    },
+    {
+      "basename": "C++ How-To",
+      "path": "_💡Library/🖥️CPSC/C++ How-To.md"
+    },
+    {
+      "basename": "git-debugging",
+      "path": "_🖥️CLI/git-debugging.md"
+    },
+    {
+      "basename": "git",
+      "path": "_🖥️CLI/git.md"
+    },
+    {
+      "basename": "Formatting esm code",
+      "path": "_SEL/🏃‍♂️Sprints/2022-09-sth/Formatting esm code.md"
+    },
+    {
+      "basename": "🐳Docker",
+      "path": "_🖥️CLI/🐳Docker.md"
+    },
+    {
+      "basename": "ssh-config file",
+      "path": "_🖥️CLI/ssh-config file.md"
+    },
+    {
+      "basename": "Uber Build",
+      "path": "_SEL/🔷ICON/Uber Build.md"
+    },
+    {
+      "basename": "VS Code Remote SSH from windows to linux",
+      "path": "😶‍🌫️Misc/VS Code Remote SSH from windows to linux.md"
+    },
+    {
+      "basename": "🐧Linux",
+      "path": "🐧Linux/🐧Linux.md"
     },
     {
       "basename": "nrf Tools",
       "path": "🏗️Projects/nrf Tools.md"
     },
     {
-      "basename": "nextcloud.com",
-      "path": "😶‍🌫️Misc/nextcloud.com.md"
+      "basename": "Sonet",
+      "path": "_💡Library/🌐Networking/Sonet.md"
     },
     {
-      "basename": "capterra.ca",
-      "path": "😶‍🌫️Misc/capterra.ca.md"
+      "basename": "🪟Powershell",
+      "path": "_🖥️CLI/🪟Powershell.md"
     },
     {
-      "basename": "Software Review Websites",
-      "path": "😶‍🌫️Misc/Software Review Websites.md"
+      "basename": "Github CLI",
+      "path": "_🖥️CLI/Github CLI.md"
     },
     {
-      "basename": "Remote Desktop Setup on Fresh Install",
-      "path": "🪟Windows/Remote Desktop Setup on Fresh Install.md"
+      "basename": "Copy over SSH Public Key on Linux from Windows",
+      "path": "🐧Linux/Copy over SSH Public Key on Linux from Windows.md"
+    },
+    {
+      "basename": "Configure Wifi SSID and password through the CLI",
+      "path": "🐧Linux/Configure Wifi SSID and password through the CLI.md"
+    },
+    {
+      "basename": "telus-router-lan-dhcp-menu",
+      "path": "_💡Library/🖥️CPSC/attachments/telus-router-lan-dhcp-menu.png"
+    },
+    {
+      "basename": "Pipenv",
+      "path": "_💡Library/🐍Python/Pipenv.md"
+    },
+    {
+      "basename": "UDP",
+      "path": "_💡Library/🌐Networking/UDP.md"
+    },
+    {
+      "basename": "Server Module",
+      "path": "_SEL/🔷ICON/Server Module.md"
+    },
+    {
+      "basename": "NIF-X Overview",
+      "path": "_SEL/🔷ICON/NIF-X Overview.md"
+    },
+    {
+      "basename": "VS Code Bitbucket Extenstion",
+      "path": "_SEL/🦀Misc/VS Code Bitbucket Extenstion.md"
+    },
+    {
+      "basename": "My sel computers & login info",
+      "path": "_SEL/🦀Misc/My sel computers & login info.md"
+    },
+    {
+      "basename": "4️⃣ Forth",
+      "path": "_SEL/🏋️Work/4️⃣ Forth.md"
+    },
+    {
+      "basename": "ICON-15326 GPS loss of lock alarm muted after reboot",
+      "path": "_SEL/🏃‍♂️Sprints/2022-08-29/ICON-15326 GPS loss of lock alarm muted after reboot.md"
+    },
+    {
+      "basename": "Add network drives",
+      "path": "_SEL/🦀Misc/Add network drives.md"
+    },
+    {
+      "basename": "Add Printer - Burnaby-01",
+      "path": "_SEL/🦀Misc/Add Printer - Burnaby-01.md"
     },
     {
       "basename": "OneDrive - Cloud Sync Tech",
@@ -33,10 +177,6 @@
       "path": "🪟Windows/Excel Shortcuts.md"
     },
     {
-      "basename": "Command Prompt",
-      "path": "🪟Windows/Command Prompt.md"
-    },
-    {
       "basename": "Add Program to Windows Startup Apps",
       "path": "🪟Windows/Add Program to Windows Startup Apps.md"
     },
@@ -45,72 +185,20 @@
       "path": "🤓Interview Prep/🏃‍♂️Useful Training websites.md"
     },
     {
-      "basename": "🖥️CLI",
-      "path": "🖥️CLI/🖥️CLI.md"
+      "basename": "2022-08 Type-Test Documentation for VF4W",
+      "path": "_SEL/🏃‍♂️Sprints/2022-08-01/2022-08 Type-Test Documentation for VF4W.md"
     },
     {
-      "basename": "Apps Used by Tiago Forte productivity guru",
-      "path": "📺Youtube/Apps Used by Tiago Forte productivity guru.md"
+      "basename": "👾Jenkins",
+      "path": "_SEL/🏋️Work/👾Jenkins.md"
     },
     {
-      "basename": "🐧Linux",
-      "path": "🐧Linux/🐧Linux.md"
+      "basename": "SVN",
+      "path": "_SEL/🏋️Work/SVN.md"
     },
     {
-      "basename": "2022-07-12- dan - ben",
-      "path": "SEL/Meetings/2022-07-12- dan - ben.md"
-    },
-    {
-      "basename": "OOP Interview Questions",
-      "path": "SEL/🔎interviews/OOP Interview Questions.md"
-    },
-    {
-      "basename": "Python Interview Questions",
-      "path": "SEL/🔎interviews/Python Interview Questions.md"
-    },
-    {
-      "basename": "ssh-config",
-      "path": "🖥️CLI/ssh-config.md"
-    },
-    {
-      "basename": "⭐SSH Cheat Sheet",
-      "path": "🐧Linux/⭐SSH Cheat Sheet.md"
-    },
-    {
-      "basename": "git",
-      "path": "🖥️CLI/git.md"
-    },
-    {
-      "basename": "github",
-      "path": "🖥️CLI/github.md"
-    },
-    {
-      "basename": "git-debugging",
-      "path": "🖥️CLI/git-debugging.md"
-    },
-    {
-      "basename": "⭐CLI One Liners",
-      "path": "🐧Linux/⭐CLI One Liners.md"
-    },
-    {
-      "basename": "Tax & estate planning when setting up a startup",
-      "path": "🏢Business/Research Notes/Tax & estate planning when setting up a startup.md"
-    },
-    {
-      "basename": "Stack Vs Heap",
-      "path": "💡Software Concepts/Stack Vs Heap.md"
-    },
-    {
-      "basename": "telus-router-lan-dhcp-menu",
-      "path": "🐧Linux/attachments/telus-router-lan-dhcp-menu.png"
-    },
-    {
-      "basename": "Copy over SSH Public Key on Linux from Windows",
-      "path": "🐧Linux/Copy over SSH Public Key on Linux from Windows.md"
-    },
-    {
-      "basename": "Configure Wifi SSID and password through the CLI",
-      "path": "🐧Linux/Configure Wifi SSID and password through the CLI.md"
+      "basename": "Add personal one drive",
+      "path": "_SEL/🦀Misc/Add personal one drive.md"
     }
   ],
   "omittedPaths": [],

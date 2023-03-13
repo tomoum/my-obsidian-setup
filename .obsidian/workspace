@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "6fa35bd30e389028",
+        "id": "890e7f72f5866237",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "🍰Raspberry Pi/🍰Raspberry Pi.md",
+            "file": "Templates/demo.md",
             "mode": "source",
             "source": false
           }
@@ -57,9 +57,9 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 212
+    "width": 191.00556182861328
   },
   "right": {
     "id": "77fe4a6f42ab4e97",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🍰Raspberry Pi/🍰Raspberry Pi.md",
+                "file": "Templates/demo.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🍰Raspberry Pi/🍰Raspberry Pi.md",
+                "file": "Templates/demo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,28 +133,28 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🍰Raspberry Pi/🍰Raspberry Pi.md"
+                "file": "Templates/demo.md"
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 314
+    "width": 228,
+    "collapsed": true
   },
-  "active": "6fa35bd30e389028",
+  "active": "890e7f72f5866237",
   "lastOpenFiles": [
-    "🏗️Projects/nrf Tools.md",
-    "😶‍🌫️Misc/nextcloud.com.md",
-    "😶‍🌫️Misc/capterra.ca.md",
-    "😶‍🌫️Misc/Software Review Websites.md",
-    "🪟Windows/Remote Desktop Setup on Fresh Install.md",
-    "🪟Windows/OneDrive - Cloud Sync Tech.md",
-    "🪟Windows/Excel Shortcuts.md",
-    "🪟Windows/Command Prompt.md",
-    "🪟Windows/Add Program to Windows Startup Apps.md",
-    "🤓Interview Prep/🏃‍♂️Useful Training websites.md"
+    "_💡Library/🖥️CPSC/windows wsl.md",
+    "_🖥️CLI/🐧Bash.md",
+    "_SEL/🔎interviews/Python Interview Questions.md",
+    "_SEL/🔎interviews/OOP Interview Questions.md",
+    "_💡Library/🖥️CPSC/C++.md",
+    "_SEL/🔷ICON/Ethernet Switch Manager - ESM.md",
+    "_SEL/🔷ICON/attachments/Ethernet-frame-hardware-overview.svg",
+    "_SEL/🔷ICON/attachments/Ethernet-frame-hardware-overview 1.svg",
+    "_SEL/🔷ICON/Acronyms.md",
+    "🤖Blog/📰Posts/2_pipenv, venv, virtualenv which one should I use.md"
   ]
 }

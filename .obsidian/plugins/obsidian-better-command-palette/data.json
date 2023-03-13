@@ -1,5 +1,6 @@
 {
   "closeWithBackspace": true,
+  "showPluginName": true,
   "fileSearchPrefix": "/",
   "tagSearchPrefix": "#",
   "suggestionLimit": 50,
